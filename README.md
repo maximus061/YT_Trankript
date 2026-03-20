@@ -98,10 +98,12 @@ The compiled binary will be in the `dist/` folder.
 
 ```
 yt-transkript/
-├── main.py            # Full application — GUI + all logic in one file
+├── main.py
+├── script.py
+├── playlist.py
 ├── requirements.txt
-├── .gitignore
-└── transcripts/       # Auto-created at runtime, not tracked by git
+└── README.md
+
 ```
 
 ---
@@ -128,7 +130,3 @@ The key is never stored — it must be entered each time the app is launched.
 | Packaging -> PyInstaller |
 
 ---
-
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
