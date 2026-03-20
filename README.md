@@ -20,12 +20,6 @@ A desktop application for fetching, translating, and summarizing YouTube video t
 
 ---
 
-## Screenshots
-
-> _Add screenshots here after first run_
-
----
-
 ## Requirements
 
 - Python 3.10+
