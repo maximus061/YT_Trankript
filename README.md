@@ -32,7 +32,7 @@ A desktop application for fetching, translating, and summarizing YouTube video t
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/yt-transkript.git
+git clone https://github.com/maximus061/yt-transkript.git
 cd yt-transkript
 ```
 
